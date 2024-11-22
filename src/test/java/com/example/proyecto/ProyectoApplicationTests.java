@@ -1,13 +1,13 @@
-package com.example.PLN;
+package com.example.proyecto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PlnApplicationTests {
+class ProyectoApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
